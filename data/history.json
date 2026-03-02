@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T11:23:55Z",
+  "last_updated": "2026-03-02T11:48:32Z",
   "records": [
     {
       "timestamp": "2026-03-02T07:00:00Z",
@@ -54,6 +54,13 @@
       "timestamp": "2026-03-02T11:23:55Z",
       "btc_krw": 96505258,
       "btc_change_24h": 0.64,
+      "tsla_usd": 402.51,
+      "tsla_change_24h": -3.57
+    },
+    {
+      "timestamp": "2026-03-02T11:48:32Z",
+      "btc_krw": 96740712,
+      "btc_change_24h": 1.12,
       "tsla_usd": 402.51,
       "tsla_change_24h": -3.57
     }
